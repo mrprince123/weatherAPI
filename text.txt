@@ -1,0 +1,10 @@
+const URL = https://api.openweathermap.org/data/2.5/weather?q={city name},{country code}&appid={API key}
+
+two input here , city name and country code
+
+
+API key = 3d4fb3ba282c73e7028719499699572c
+
+
+modified URL = https://api.openweathermap.org/data/2.5/weather?q=Mumbai,India&appid=3d4fb3ba282c73e7028719499699572c&units=metric
+
